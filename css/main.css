@@ -1,5 +1,4 @@
-/****** BASE STYLES *****/
-
+/*=== BASE STYLES ===*/
 body {
 	font-family: 'Source Sans Pro', sans-serif;
 }
@@ -8,8 +7,7 @@ body {
 	height: 600px;
 }
 
-/****** GRID *****/
-
+/*=== GRID ===*/
 .full-width {
 	width: 1200px;
 	margin: 0 auto;
@@ -25,7 +23,7 @@ body {
 	float: left;
 }
 
-/***** HEADER *****/
+/*=== HEADER ===*/
 
 header {
 	height: 800px;
